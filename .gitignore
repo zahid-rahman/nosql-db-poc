@@ -1,4 +1,5 @@
-docker-setup/mongodb/db
+docker-setup/mongo/mongodb/db
+docker-setup/couchbase/couchbase_data
 mongodb/node_modules
 couchbase/node_modules
 couchdb/node_modules
