@@ -9,7 +9,7 @@ fake = Faker()
 num_data_points = 100000
 
 # File name for the CSV file
-csv_file_name = "products.csv"
+csv_file_name = "user.csv"
 
 # Write data to CSV file
 with open(csv_file_name, mode='w', newline='') as file:

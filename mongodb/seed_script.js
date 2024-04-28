@@ -40,4 +40,5 @@ async function seedData() {
 
 module.exports = {
   seedData
+
 }
